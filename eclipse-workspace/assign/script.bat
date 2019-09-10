@@ -1,0 +1,1 @@
+call mvn -f C:\Users\prathvi.shetty\eclipse-workspace\assign\pom.xml clean install -U
